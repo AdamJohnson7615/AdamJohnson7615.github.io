@@ -1,0 +1,9 @@
+#addCharacter {
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.7);
+  border: none;
+  padding: 3em;
+  background: rgba(44, 47, 51, 0.95);
+  color: #43e97b;
+  font-family: 'Comic Neue', 'Kabel', Arial, sans-serif;
+}
